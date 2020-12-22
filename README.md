@@ -1,3 +1,6 @@
+# Demo video on Slack's Weekly Sprint Thread.
+https://dimension-nxg.slack.com/archives/CCZ5E93RT/p1585551565000100
+
 # VTuber_Unity
 Use Unity 3D character and Python deep learning algorithms to stream as a VTuber!
 
